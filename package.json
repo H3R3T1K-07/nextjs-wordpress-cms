@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-wordpress-cms",
+  "version": "1.0.0",
+  "description": "wordpress as a cms",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "built": "next built",
+    "start": "next start"
+  },
+  "keywords": [
+    "wordpress",
+    "cms",
+    "nextjs",
+    "typescript"
+  ],
+  "author": "Curtis Hlongwane",
+  "license": "MIT"
+}
